@@ -30,5 +30,8 @@
     <ClCompile Include="HanoiTower.c">
       <Filter>소스 파일\ch01</Filter>
     </ClCompile>
+    <ClCompile Include="HanoiTowerTest.c">
+      <Filter>소스 파일\ch01</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

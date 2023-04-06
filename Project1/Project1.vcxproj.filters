@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\ch01">
       <UniqueIdentifier>{2a274d01-bda1-40e8-864c-50d97517fc25}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch02">
+      <UniqueIdentifier>{6b52b7a0-0ba7-4afd-97a4-1fab0f874205}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PrimeNumber.c">
@@ -32,6 +35,9 @@
     </ClCompile>
     <ClCompile Include="HanoiTowerTest.c">
       <Filter>소스 파일\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="array1.c">
+      <Filter>소스 파일\ch02</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -19,6 +19,18 @@
     <Filter Include="소스 파일\ch02">
       <UniqueIdentifier>{6b52b7a0-0ba7-4afd-97a4-1fab0f874205}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch03">
+      <UniqueIdentifier>{ad1aa8ce-ede9-49a6-b1e1-27876023d875}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch04">
+      <UniqueIdentifier>{94f07959-b8fd-4ce4-b412-ff870df2a828}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch05">
+      <UniqueIdentifier>{45e08f8c-f541-49b8-8632-af69bb9bc95b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch06">
+      <UniqueIdentifier>{e4322aac-1e10-43e8-a463-4277b8243199}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PrimeNumber.c">
@@ -42,5 +54,40 @@
     <ClCompile Include="PointerAndAarray.c">
       <Filter>소스 파일\ch02</Filter>
     </ClCompile>
+    <ClCompile Include="LinkedList1.c">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList2.c">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="StackArray.c">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="StackLinkedList.c">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="MazeSearch.c">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="recursiveBacktracking.c">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="LinearQueueArray.c">
+      <Filter>소스 파일\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularQueueArray.c">
+      <Filter>소스 파일\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftRightBalancedTree.c">
+      <Filter>소스 파일\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="LinearQueueLinkedList.c">
+      <Filter>소스 파일\ch05</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="array2.c">
+      <Filter>소스 파일\ch02</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
